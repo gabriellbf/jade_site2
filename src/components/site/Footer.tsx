@@ -43,7 +43,7 @@ export function Footer() {
             <Mail className="h-4 w-4" /> psijadetavora@gmail.com
           </a>
           <a
-            href="#"
+            href="https://www.linkedin.com/in/jade-távora-soares/"
             aria-label="LinkedIn"
             className="flex items-center gap-3 hover:text-cream/60 transition text-cream"
           >
