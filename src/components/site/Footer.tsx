@@ -37,10 +37,10 @@ export function Footer() {
             <Phone className="h-4 w-4" /> +55 31 97212-3810
           </a>
           <a
-            href="mailto:psijadetavora@gmail.com"
+            href="mailto:psi.jadetavora@gmail.com"
             className="flex items-center gap-3 hover:text-cream/60 transition text-cream"
           >
-            <Mail className="h-4 w-4" /> psijadetavora@gmail.com
+            <Mail className="h-4 w-4" /> psi.jadetavora@gmail.com
           </a>
           <a
             href="https://www.linkedin.com/in/jade-távora-soares/"
